@@ -1,0 +1,6 @@
+{
+  "home": {
+    "title": "Página Inicial",
+    "welcome-message": "Puede visitar <a href=\"https://kit.svelte.dev\">kit.svelte.dev</a> para leer la documentación"
+  }
+}
